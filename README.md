@@ -1,5 +1,5 @@
 ### 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/ludwig-hahn-b3822b1b4/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ludwig-hahn-b3822b1b4/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-green?style=for-the-badge&logo=netlify&logoColor=white)](https://ludwigportfolio.netlify.app/)
 
 ## 🖥️ Tech Stack:
