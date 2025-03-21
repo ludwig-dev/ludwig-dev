@@ -22,5 +22,6 @@
 
 
 ## 📊 GitHub Stats:
+![GitHub Streak](https://streak-stats.demolab.com/?user=ludwig-dev&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ludwig-dev&layout=compact&theme=dark&v=1)
 
